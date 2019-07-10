@@ -6,7 +6,6 @@ Create login and registration UI (User Interface) template with Angular 8, Angul
 [Create Login UI Template with Angular 8 and Material Design](https://www.positronx.io/create-login-ui-template-with-angular-8-material-design/)
 
 ## How to start project?
-Git Clone Repo
-Run `npm install`
-Run `ng serve`
-# angular-material-login-template
+- Git Clone Repo
+- Run `npm install`
+- Run `ng serve`
